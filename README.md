@@ -47,5 +47,5 @@ Raw CSV → ADLS Raw → Databricks Cleaning → Silver Layer → Azure SQL Data
 
 ---
 
-## 👨‍💻 Contributor
-Ganesh
+## Contributor
+Naveen
